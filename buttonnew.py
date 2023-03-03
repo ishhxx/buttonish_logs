@@ -198,3 +198,6 @@ h_lable1.pack()
 
 root.mainloop()
 
+
+#edit by ish
+
